@@ -4,8 +4,7 @@ vuvuzela.pl - Introduce the sounds of African football culture into IRC with irs
 
 =head1 BBRRZZZZZZZUSAGE
 
-Stick it into your ~/.irssi/scripts/ folder and then start it up by running:
-    /run vuvuzela
+Stick it into your C< ~/.irssi/scripts/ > folder and then start it up by running: C< /run vuvuzela >
 
 =head1 BRRZZZZZZZZZZZZCOMMANDS
 
