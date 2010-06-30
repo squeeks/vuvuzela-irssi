@@ -1,0 +1,26 @@
+=head1 BRRRRZZZZZZZZZZZZZZZZNAME
+
+vuvuzela.pl - Introduce the sounds of African football culture into IRC with irssi.
+
+=head1 BBRRZZZZZZZUSAGE
+
+Stick it into your ~/.irssi/scripts/ folder and then start it up by running:
+    /run vuvuzela
+
+=head1 BRRZZZZZZZZZZZZCOMMANDS
+
+=head2 /vvz [some text]
+
+Feed it something to say. It'll make you sound like you're blowing your trumpet a lot. 
+The more you say, the more you are blowing your own trumpet.
+
+=head2 /vuvuzela [number]
+
+Give it a number. The bigger the number, the more carried away it gets. Enough said.
+
+=head1 BBRRZZZZZREQUIREMENTS
+
+A modern copy of irssi and a few bouncers to help avoid zealous ops.
+
+=cut
+
